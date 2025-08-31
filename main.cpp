@@ -7,3 +7,7 @@ int main()
 {
     cout<<"Hello world";
 }
+
+// footer was add successfully
+
+// this is my prideg
