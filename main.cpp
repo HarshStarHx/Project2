@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     cout<<"Hello world";
+    return 0;
 }
 
 // footer was add successfully
